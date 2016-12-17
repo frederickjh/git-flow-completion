@@ -68,9 +68,11 @@ To achieve git-flow completion nirvana:
 
 ## Installation for fish
 
-To achieve git-flow completion nirvana:
+To achieve git-flow completion nirvana for your user:
 
  1. Install `git.fish` in your `~/.config/fish/completions` folder.
+ 
+Or to install for all fish users on the system install `git.fish` in `/etc/fish/completions`. If the completions folder does not exist then create it first.
 
 
 ## The Fine Print
